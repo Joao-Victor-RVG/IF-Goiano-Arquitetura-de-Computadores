@@ -1,26 +1,28 @@
-
+# INSTITUTO FEDERAL GOIANO - BACHARELADO EM CIENCIAS DA COMPUTAÇÃO
 <figure>
 
-  
+  <img src="logo IF-Goiano.png" alt="IF-Goiano logo">
+
 
 ---
 
 ## Curso / Curse
 
-Java COMPLETO 2023 Programação Orientada a Objetos +Projetos
+Arquitetura de Computadores
 
 <br>
 
-Complete 2023 Java Object Oriented Programing + projects
+Computer Architect
 
 
 ## 🚀 Sobre / About
 
-Esse repositório armazena todos os arquivos referentes ao meu curso de Java e Orientação a objetos com Java (POO)
+Esse repositório armazena todos os arquivos referentes a matéria de Arquitetura de Computadores
+
   
 <br>
   
-This repository stores all the files related to my course on Java and Object Orientation with Java (OOP)
+This repository stores all files related to Computer Architecture subject 
 
 ## 📝 Licença / License
 
@@ -32,4 +34,6 @@ This project is under the MIT license. see the file [LICENSE](.github/LICENSE.md
 
 ## 🏫 Escola / School 
 
-[Udemy Curse](https://www.udemy.com/course/java-curso-completo/)
+[IF-Goiano Website](https://ifgoiano.edu.br/home/index.php)
+
+[YouTube Channel](https://www.youtube.com/user/ifgoiano)
